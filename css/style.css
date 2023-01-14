@@ -93,8 +93,21 @@ font-size: 16px;
 color: #ffffff;
 }
 /* bannar part start  */
-/* navbar part end */
-/* navbar part start  */
+/*  ecomarce-logo part end */
+main{
+    margin: 0 165px;
+}
+.eco-logo{
+    padding: 35px 62px;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #aaaaaa;
+}
+.eco-logo .container{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    align-items: center;
+}
+/*  ecomarce-logo part start  */
 /* navbar part end */
 /* navbar part start  */
 /* navbar part end */
